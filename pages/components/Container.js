@@ -13,14 +13,14 @@ const Container = () => {
         <div className=" bg-gradient-to-r from-gray-100 to-gray-50 h-full " >
             <div className="  px-8 py-1 ">
                 <p className="text-gray-500 text-lg">
-                    Elrond
+                    Git Edgeware Explorer
             </p>
                 <p className="font-bold text-2xl transform -translate-y-2">
-                    Hei!
+                    Underconstruction Explorer Please Stay Tune :)
             </p>
             </div>
             <div className="flex   p-4 space-x-3">
-                <Card title="TOTAL" balance={409.0790} icon={0} />
+                <Card title="TOTAL SUPPLY" balance={1.05000000000000000} icon={0} />
                 <Card title="AVAILABLE" balance={300.0790} icon={1} />
                 <Card title="CLAIMABLE REWARD" balance={100.0790} icon={2} />
                 <Card title="DELEGATED" balance={339.0790} icon={3} />

@@ -12,9 +12,9 @@ const Sidebar = () => {
     return (
         <div className="md:w-3/12 w-6/12 h-screen shadow-2xl">
             <div className=" border-b py-3 mt-1 flex justify-around ">
-                <p className="text-xl  font-semibold">elrond</p>
+                <p className="text-xl  font-semibold">Gitshock Finance</p>
                 <p>|</p>
-                <p className="text-gray-400 text-lg">wallet</p>
+                <p className="text-gray-400 text-lg">Wallet</p>
 
             </div>
             <div className="p-4 space-y-14">

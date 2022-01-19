@@ -13,7 +13,7 @@ const Color = ["from-indigo-500 to-blue-500", "from-blue-400 to-blue-300", "from
 
 const Card = (props) => {
     var balance = props.balance
-    balance = balance * 9.5;
+    balance = balance * 9000007.5;
 
 
 
@@ -29,7 +29,7 @@ const Card = (props) => {
                 {props.title}
             </p>
             <p className="text-gray-50 text-lg  font-semibold  ">
-                {props.balance} EGLD
+                {props.balance} GTFX
             </p>
             <p className="text-gray-300  text-sm ">
                 ${balance}
